@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">ResepMakanan-Tugas1</string>
+    <string-array name="judul">
+        <item>Tahu Gimbal</item>
+        <item>Nasi Kuning</item>
+        <item>Ayam Goreng</item>
+        <item>Sukiyaki</item>
+        <item>Jamur Krispi</item>
+        <item>Rawon</item>
+    </string-array>
+
+    <string-array name="deskripsi">
+        <item>
+            Tahu Gimbal adalah makanan yang enak\nBahan-bahan \n
+                 1. Secukupnya lontong, potong\n
+                 2. Secukupnya sambel kacang/ pecel\n
+                 3. Secukupnya timun\n
+                 4. 1 buah tahu putih ukuran sedang\n
+                 5. 1 butir telur\n
+                 6. 1/2 sdt bawang merah,bawang putih haluskan\n
+                 7. Garam\n
+                 8. Daun sop, daun bawang, bawang goreng (optional)\n
+                 Langkah \n
+                 -Potong2 tahu ukuran dadu, goreng sebentar hingga permukaan kekuningan. Agkat, sisihkan\n
+                 -Kocok telur bersama bawang halus dan garam, campurkan tahu. Goreng seperti telur dadar\n
+                 -Cairkan bumbu kacang dengan air, siram sebagian diatas lontong,\n
+                 -Letakkan tahu telur di atas lontong yang sudah disiram bumbu kacang\n
+                 -Tambahkan timun diatasnya, tuangkan sisa bumbu kacang\n
+                 -Taburi dengan daun sop, daun bawang dan bawang goreng
+        </item>
+        
+        
+        <item>
+            Bahan-bahan
+                 - 4 porsi\n
+                 - 100 gram beras\n
+                 - 75 ml santan cair\n
+                 - 3 siung bawang putih\n
+                 - 2 siung bawang merah\n
+                 - 1 ruas kunyit tua\n
+                 - 2 lembar daun salam\n
+                 - 1 batang serai (memarkan)\n
+                 - secukupnya Garam dan penyedap rasa\n
+                 - Air (sesuai masak nasi biasa aja)\n
+                 Langkah \n   
+                 1. 15 menit\n
+                 2. Cuci bersih beras, daun salam, serai lalu masukkan ke dalam panci magicom\n
+                 3. Haluskan bawang merah, bawang putih. Parut kunyit dan saring. Masukkan bumbu halus kedalam panci beras tadi.\n
+                 \n   
+        </item>
+
+        <item>
+            Bahan-bahan
+                 - 1 ekor ayam (potong 12pc)\n
+                 - 3 sdm tepung sachet ayam goreng (aku pakai tepung putri)\n
+                 - 4 sdm tepung terigu\n
+                 - 1 sdm maizena (sdm muncung)\n
+                 - 1 sdt garam\n
+                 - 1 sdt bubuk bawang putih\n
+                 - 1/2 sdt lada\n
+                 Langkah \n   
+                 1. Cuci ayam sampai bersih,tiriskan lgs masukan smua bumbu\n
+                 2. Diaduk2 dipencet2 sampai semua menyatu.. jika bumbu terasa kurang tebal tambahkan lg smua bahannya tapi takerannya 1/2 aja\n
+                 3. Biarkan 5-10 menit saja.. lalu goreng dgn minyak panas dan banyak.\n
+                 4. Simple dan cepat kan😄.. sajikan bu😙😙
+        </item>
+        <item>
+         Bahan-bahan \n
+                 - 3-4 porsi\n
+                 - 1 bungkus frozen suki\n
+                 - 1 buah wortel (iris kecil)\n
+                 - 1 ikat pokcoy\n
+                 - 1 bungkus jamur enoki\n
+                 - 1 buah brokoli (potong kecil dan rendam dengan air garam)\n
+                 - 1 liter air\n
+                 - 2 siung bawang putih (geprek dan iris halus)\n
+                 - 2 buah bawang daun (iris)\n
+                 - 2 kotak maggi blok\n
+                 - 3 sdm saus tiram\n
+                 - 2 sdm kecap asin\n
+                 - 2 sdm gula\n
+                 - secukupnya garam\n
+                 - secukupnya merica bubuk\n
+                 - secukupnya minyak wijen atau minyak goreng\n
+                 Langkah \n
+                 1. Cuci bersih seluruh bahan dan tiriskan. Potong-potong sayuran sesuai selera.\n
+                 2. Panaskan wajan dengan minyak secukupnya. Tumis irisan bawang putih hingga harum.\n
+                 3. Masukkan air putih dan wortel. Tambahkan maggi blok, saus tiram, kecap asin, gula, garam, dan merica. Rebus hingga mendidih dan koreksi rasa sesuai selera.\n
+                 4. Ada 2 cara penyajian:\n
+            a). Kuah dan bahan suki dipisahkan. Bahan suki baru direbus ketika akan dimakan. \n
+            b). Bahan suki dan sayuran yang lebih lunak dimasukkan langsung ke dalam kuah.\n
+                 Tips: Brokoli dan bahan utama suki dapat dimasukan bersamaan. Jangan rebus brokoli terlalu lama karena akan menghilangkan gizinya. Jika menggunakan crabstick, sebaiknya dimasukkan 1 menit sebelum dimatikan karena crabstick cepat sekali matang. Sedangkan jamur enoki dapat dimasukkan segera setelah api dimatikan.\n
+                 \n
+                 Sajikan selagi hangat. Oiya, karena saya suka pedas, biasanya saya tambahkan irisan cabe rawit. Selamat menikmati :)
+        </item>
+        <item>
+            Bahan-bahan\n
+                 - 100 gr jamur tiram\n
+                 - 1 butir telor\n
+                 - secukupnya Tepung bumbu krispi (saya pake kobe)\n
+                 - Minyak untuk menggoreng\n
+                 Langkah \n   
+                 1. Cuci bersih jamur kemudian peras airnya\n
+                 2. Kocok lepas telur, masukan jamur.\n
+                 3. Guling jamur pada tepung kering.\n
+                 4. Goreng jamur sampai kuning keemasan.\n
+                 \n   
+                 5. Angkat dan jamur krispi siap dihidangkan.
+        </item>
+        <item>Bahan-bahan\n
+
+                 - 300 gr daging sapi bagian kisi, potong dadu, rebus sampai empuk\n
+                 - 2 saset bumbu rawon indofood\n
+                 - 5 butir telur asin matang\n
+                 - 1 ons kerupuk udang\n
+                 - 10 cabe rawit\n
+                 - 3 biji bawang putih\n
+                 - 2 buah jeruk nipis\n
+                 - 3 biji bawang merah, iris tipis, goreng kering\n
+                 - 2 batang daun bawang, potong pendek2\n
+                 - 2 lt air\n
+                 - 2 helai daun salam\n
+                 - 2 keping lengkuas, keprek\n
+                 - 1 batang serai, keprek\n
+                 Langkah \n
+                 1. Siapkan daging yg sdh empuk beserta kaldu tersisa 2lt, tmbhkan serai salam lengkuas berikut bumbu rawon indofood...didihkan sampe bumbu meresap dan wangi rempah\n
+                 2. Teman rawon: Siapkan kerupuk, telur bebek asin, daun bawang, bawang goreng, jeruk nipis, toge segar, sambal dlm wadah terpisah\n
+                 3. Sambal: goreng cabe rawit dan bawang putih, tumbuk ckp halus\n
+                 4. Sajikan bersama nasi dan kuah rawon panas lengkap dgn teman2nya..
+        </item>
+    </string-array>
+
+
+
+
+</resources>
